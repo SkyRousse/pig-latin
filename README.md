@@ -1,6 +1,6 @@
 # _Pig Latin_
 
-#### _Evaluates year to determine if it is a leap year or not, 7 June 2016_
+#### _A Pig Latin translator_
 
 #### By _**Lauren Posey & Sky Rousse**_
 
